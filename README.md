@@ -1,4 +1,4 @@
-# leetcode_solutions__with_Java
+# leetcode_solutions_with_Java
 I'm trying to solve leetcode problems with java and uploaded the problems I solved here
 
 ## 1- problem_01: TWO SUM
