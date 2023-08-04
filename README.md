@@ -1,5 +1,6 @@
 # leetcode_solutions_with_Java
-I'm trying to solve leetcode problems with java and uploaded the problems I solved here
+I'm trying to solve leetcode problems with java and uploaded the problems I solved here.
+I am trying to use classes methods and get the given numbers from the user. Because of this, solutions may not compile correctly in leetcode. But the solution logic is the same
 
 ## 1- problem_01: TWO SUM
 
